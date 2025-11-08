@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Hirushi Sammani
+# 🎓Computer Science Student 
 
 <!--
 **hiru-ui/hiru-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
