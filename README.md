@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Hirushi Sammani!
-## 🎓Computer Science Undergraduate | AI & Web Enthusiast
+## 🎓Computer Science Undergraduate | AI & DevOps Enthusiast | Web Developer
 
 <!--
 **hiru-ui/hiru-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
