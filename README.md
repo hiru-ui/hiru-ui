@@ -45,7 +45,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-> ✏️ Remove any badge you don't use. Find more at [shields.io](https://shields.io) or [simpleicons.org](https://simpleicons.org).
+
 
 ---
 
@@ -55,7 +55,7 @@
 |---|---|---|
 | [**Portfolio**](https://github.com/hiru-ui/Portfolio) | My personal portfolio website | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square) |
 | *3D-Ship* - (https://github.com/hiru-ui/3D-Ship) | *3D Ship Model and Simulation * | *(C++ , OpenGL , GLUT )* |
-| *Glamour-Cosmetics-Platform* - (https://github.com/hiru-ui/Glamour-Cosmetics-Platform) | *E-commerce website* | 
+| *Glamour-Cosmetics-Platform* - (https://github.com/hiru-ui/Glamour-Cosmetics-Platform) | *E-commerce website* | *(HTML ,CSS ,Java, JS )* |
 
 ---
 
@@ -77,7 +77,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirushisammani23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hirushi-sammani-2125a2343)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 
 <br/>
