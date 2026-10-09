@@ -53,7 +53,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Portfolio**](https://github.com/hiru-ui/Portfolio) | My personal portfolio website | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square) |
+| [**Portfolio**](https://github.com/hiru-ui/Portfolio) | My personal portfolio website | *(CSS)* |
 | [**3D-Ship**](https://github.com/hiru-ui/3D-Ship) | 3D Ship Model and Simulation  | *(C++ , OpenGL , GLUT )* |
 | [**Glamour-Cosmetics-Platform**](https://github.com/hiru-ui/Glamour-Cosmetics-Platform) | E-commerce website | *(HTML ,CSS ,Java, JS )* |
 
