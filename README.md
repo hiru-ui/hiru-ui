@@ -1,8 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hirushi%20Sammani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20AI%20%26%20DevOps%20Enthusiast%20%7C%20Web%20Developer&descSize=16&descAlignY=60" alt="header" />
-
+<img src="./banner.svg" alt="Hirushi Sammani" width="100%" />
 <a href="https://github.com/hiru-ui">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Hirushi;Building+things+with+code+%F0%9F%92%BB;Exploring+AI+%26+DevOps+%F0%9F%A4%96;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="typing intro" />
 </a>
