@@ -21,9 +21,8 @@
 - 🎓 Computer Science undergraduate at the **University of Sri Jayewardenepura**
 - 🤖 Interested in **AI** and ⚙️ **DevOps**
 - 🌐 Building clean, responsive **web applications**
-- 🌱 Currently learning: *(add what you're learning, e.g. Docker, CI/CD, Machine Learning)*
-- 🤝 Open to collaborating on: *(add your interests, e.g. open-source, student projects)*
-- 💬 Ask me about: *(e.g. web development, AI basics)*
+- 🌱 Currently learning: *( AWS , Docker, CI/CD, Machine Learning)*
+  
 
 ---
 
@@ -55,8 +54,8 @@
 | Project | Description | Tech |
 |---|---|---|
 | [**Portfolio**](https://github.com/hiru-ui/Portfolio) | My personal portfolio website | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square) |
-| *Project name* | *One-line description* | *Tech* |
-| *Project name* | *One-line description* | *Tech* |
+| *3D-Ship* - (https://github.com/hiru-ui/3D-Ship) | *3D Ship Model and Simulation * | *(C++ , OpenGL , GLUT )* |
+| *Glamour-Cosmetics-Platform* - (https://github.com/hiru-ui/Glamour-Cosmetics-Platform) | *E-commerce website* | 
 
 ---
 
