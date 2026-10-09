@@ -1,5 +1,4 @@
-# Hi there 👋 I'm Hirushi Sammani!
-## 🎓Computer Science Undergraduate | AI & DevOps Enthusiast | Web Developer
+
 
 <!-- HEADER BANNER -->
 <div align="center">
