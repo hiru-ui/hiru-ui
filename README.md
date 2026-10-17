@@ -7,7 +7,7 @@
 </a>
 
 <br/>
-![Profile Views](https://hits.sh/github.com/hiru-ui.svg?label=Profile%20Views&color=2c5364&style=flat-square)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=hiru-ui&label=Profile%20Views&labelColor=%232c5364&countColor=%23263759&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/hiru-ui?label=Followers&style=flat-square&color=2c5364)
 ![Location](https://img.shields.io/badge/Sri%20Lanka-%F0%9F%87%B1%F0%9F%87%B0-2c5364?style=flat-square)
 
