@@ -7,9 +7,11 @@
 </a>
 
 <br/>
-![Profile Views](https://api.visitorbadge.io/api/visitors?path=hiru-ui&label=Profile%20Views&labelColor=%232c5364&countColor=%23263759&style=flat-square)
-![Followers](https://img.shields.io/github/followers/hiru-ui?label=Followers&style=flat-square&color=2c5364)
-![Location](https://img.shields.io/badge/Sri%20Lanka-%F0%9F%87%B1%F0%9F%87%B0-2c5364?style=flat-square)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=hiru-ui&label=Profile%20Views&labelColor=%232c5364&countColor=%23263759&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hiru-ui?label=Followers&style=flat-square&color=2c5364" alt="Followers" />
+  <img src="https://img.shields.io/badge/Sri%20Lanka-%F0%9F%87%B1%F0%9F%87%B0-2c5364?style=flat-square" alt="Location" />
+</p>
 
 </div>
 
