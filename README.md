@@ -26,6 +26,13 @@
   
 
 ---
+<a href="https://certdirectory.io/profile/hirushi-sammani?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/hirushi-sammani.svg?style=card&theme=dark">
+    <img alt="Hirushi Sammani on CertDirectory" src="https://certdirectory.io/badge/hirushi-sammani.svg?style=card">
+  </picture>
+</a>
+
 
 ## 🛠️ Tech Stack
 
